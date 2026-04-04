@@ -3,7 +3,7 @@
 Spatiotemporal deep learning solution for 16-hour ahead PM2.5 forecasting
 across a 140×124 grid covering the Indian subcontinent.
 
-**Current leaderboard score: 0.8246** (higher is better, max=1)
+**Current leaderboard score: 0.8402**
 
 ---
 
